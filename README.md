@@ -21,38 +21,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 📱 Snap and Shape (Graduation Project – **Grade: A+**)
-> A full-stack health & nutrition app for tracking meals and generating personalized AI-based diet recommendations.
-
-- **Tech Stack:** ASP.NET Core Web API, React Native, SQL Server, C#  
-- **Features:** User profiles, chronic disease tracking, goal-based meal suggestions, AI integration  
-- **Role:** Backend development & API integration  
-- 🚀 *Private for now – demo available upon request*
-- 🔗 [GitHub Repo]([https://github.com/Marslino882002](https://github.com/Marslino882002/Snap-Shape-APIs.git) *(Link to specific repo if public)*
-
----
-
-### 🍱 Meal QR System
-> A web platform for managing and verifying employee meal orders via QR codes.
-
-- **Tech Stack:** ASP.NET MVC, SQL Server, Bootstrap  
-- **Features:** QR generation, meal scheduling, admin dashboard  
-- 🔗 [GitHub Repo]([https://github.com/Marslino882002](https://github.com/Marslino882002/Coupons-Project.git)) *(Link to specific repo if public)*
-
----
-
-
-### 📊 Admin Dashboard
-> Centralized dashboard to manage podcasts, articles, ads, users, and more.
-
-- **Tech Stack:** ASP.NET Core MVC, Bootstrap, jQuery  
-- **Features:** CRUD operations, form validation, search, filters  
-- 🔗 [GitHub Repo]([https://github.com/Marslino882002](https://github.com/Marslino882002/Dashboard)) *(Link to specific repo if public)*
-
----
-
 ## 🎓 Education & Certifications
 
 - **B.Sc. in Computer Science**  
